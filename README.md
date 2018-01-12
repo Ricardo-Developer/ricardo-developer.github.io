@@ -22,4 +22,4 @@ This repo contains a personal dev portfolio template that was created with Sass 
 
 ## License
 
-Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
+Completely free (MIT)!
