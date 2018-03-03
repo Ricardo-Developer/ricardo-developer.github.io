@@ -1,6 +1,6 @@
 {
   "name": "Portfolio-Github",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "My take on Github Pages",
   "main": "js/scripts.js",
   "scripts": {
