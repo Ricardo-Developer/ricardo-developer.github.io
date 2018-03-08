@@ -3,7 +3,7 @@
 .AppleDouble
 .LSOverride
 
-# NPM packages
+# NPM packages Folder
 node_modules/
 
 # Icon must end with two \r
