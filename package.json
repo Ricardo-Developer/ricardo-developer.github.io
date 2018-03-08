@@ -1,7 +1,7 @@
 {
   "name": "Portfolio-Github",
   "version": "1.1.4",
-  "description": "My take on Github Pages",
+  "description": "My take on Github Pages and build my Portfolio",
   "main": "js/scripts.js",
   "scripts": {
     "watch": "gulp watch"
