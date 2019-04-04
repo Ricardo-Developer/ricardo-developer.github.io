@@ -17,7 +17,7 @@
   "author": "Ricardo Carlos",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "3.9.1",
+    "gulp": "^4.0.0",
     "gulp-autoprefixer": "5.0.0",
     "gulp-plumber": "1.2.0",
     "gulp-rename": "1.2.2",
